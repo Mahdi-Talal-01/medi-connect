@@ -150,3 +150,12 @@
 .mb-0 {
   margin-bottom: 0;
 }
+.rounded-1 {
+  border-radius: 10px;
+}
+.rounded-2 {
+  border-radius: 20px;
+}
+.rounded-3 {
+  border-radius: 30px;
+}
