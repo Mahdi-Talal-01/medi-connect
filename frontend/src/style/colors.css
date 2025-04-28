@@ -1,0 +1,17 @@
+/* Primary Color (used for buttons, highlights) */
+:root {
+  --color-primary: #ff7f51;
+
+  /* Text Colors */
+  --color-primary-text: #00656f;
+  --color-secondary-text: #4b5563;
+  --color-tertiary-text: #6366f1;
+
+  /* Background Colors */
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #fafafa;
+  --color-bg-card: #1a939c;
+
+  /* Border Color */
+  --color-border: #e5e7eb;
+}
